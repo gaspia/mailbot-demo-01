@@ -36,5 +36,10 @@ import azureml.core
 azureml.core.VERSION
 ```
 
-# Dataset preparation
+# Installing python requirements
+1. Pandas: `pip install pandas`
+2. TensorFlow: `pip install tenserflow`
+3. PyTorch: `conda install pytorch`
+4. tansformers: `pip install transformers`
+5. Sckit-learn: `pip install sklearn`
 
